@@ -40,7 +40,7 @@ const Index = () => {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-2xl font-bold text-primary">ModelReady Workforce</div>
+          <div className="text-2xl font-bold text-primary">SkillBotics</div>
           <div className="hidden md:flex gap-8 items-center">
             <a href="#services" className="text-foreground hover:text-accent transition-colors">Services</a>
             <a href="#about" className="text-foreground hover:text-accent transition-colors">About</a>
@@ -375,7 +375,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-2xl font-bold mb-4">ModelReady Workforce</h3>
+              <h3 className="text-2xl font-bold mb-4">SkillBotics</h3>
               <p className="text-white/80">
                 Bridging the gap between AI companies and skilled human talent.
               </p>
@@ -394,7 +394,7 @@ const Index = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
               <ul className="space-y-2 text-white/80">
-                <li>Email: contact@modelready.com</li>
+                <li>Email: contact@skillbotics.com</li>
                 <li>Phone: +1 (555) 123-4567</li>
                 <li>Available 24/7</li>
               </ul>
@@ -402,7 +402,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-white/20 mt-12 pt-8 text-center text-white/70">
-            <p>&copy; 2024 ModelReady Workforce. All rights reserved.</p>
+            <p>&copy; 2024 SkillBotics. All rights reserved.</p>
           </div>
         </div>
       </footer>
